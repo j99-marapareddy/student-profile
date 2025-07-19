@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Student Profile: Jane Doe</title>
+    <link rel="stylesheet" href="student-profile.css">
+</head>
+<body>
+    <header>
+        <h1>Student Profile</h1>
+    </header>
+    <main>
+        <section id="student-info">
+            <h2>Student Information</h2>
+            <ul>
+                <li><strong>Name:</strong> Jane Doe</li>
+                <li><strong>Login:</strong> j99-marapareddy</li>
+                <li><strong>Email:</strong> janedoe@email.com</li>
+                <li><strong>Major:</strong> Computer Science</li>
+                <li><strong>Year:</strong> 2nd Year</li>
+            </ul>
+        </section>
+        <section id="attendance">
+            <h2>Attendance</h2>
+            <table>
+                <tr>
+                    <th>Date</th>
+                    <th>Status</th>
+                </tr>
+                <tr>
+                    <td>2025-07-01</td>
+                    <td>Present</td>
+                </tr>
+                <tr>
+                    <td>2025-07-02</td>
+                    <td>Absent</td>
+                </tr>
+                <tr>
+                    <td>2025-07-03</td>
+                    <td>Present</td>
+                </tr>
+                <tr>
+                    <td>2025-07-04</td>
+                    <td>Present</td>
+                </tr>
+            </table>
+        </section>
+        <section id="classes">
+            <h2>Classes Enrolled</h2>
+            <ul>
+                <li>Mathematics</li>
+                <li>Computer Programming</li>
+                <li>English Literature</li>
+                <li>Physics</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Jane Doe</p>
+    </footer>
+</body>
+</html>
